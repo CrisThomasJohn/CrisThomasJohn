@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cris20003&show_icons=true&locale=en" alt="cris20003" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=cris20003&show_icons=true](https://github-readme-stats.vercel.app/api?username=CrisThomasJohn&show_icons=true)&locale=en"  />
 </p>
