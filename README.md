@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Cris Thomas John</h1>
 <h3 align="center">BCA Graduate | Aspiring Java Full Stack Developer</h3>
 
@@ -6,8 +7,7 @@
 🎓 BCA Graduate | Java Full Stack Developer Intern @ Scope India  
 🌱 Learning: Spring MVC | Thymeleaf | React  
 💬 Tech Stack: Java | Spring Boot | HTML | CSS | JS | MySQL  
-📫 Email: cristhomasjohn03@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristhomasjohn)  
-🌐 Portfolio: [itsmecris.netlify.app](https://itsmecris.netlify.app)
+📫 Email: cristhomasjohn03@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristhomasjohn)
 
 ---
 
@@ -36,7 +36,7 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cris20003&show_icons=true&theme=default" alt="cris20003 stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisThomasJohn&show_icons=true&theme=default" alt="CrisThomasJohn stats"/>
 </p>
 
 ---
