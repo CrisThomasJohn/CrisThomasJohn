@@ -7,7 +7,7 @@
 🎓 BCA Graduate | Java Full Stack Developer Intern @ Scope India  
 🌱 Learning: React  
 💬 Tech Stack: Java | Spring Boot | HTML | CSS | JS | MySQL  
-📫 Email: cristhomasjohn03@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristhomasjohn)
+📫 Email: jcris2995@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristhomasjohn)
 
 ---
 
