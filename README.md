@@ -1,13 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Cris Thomas John</h1>
 <h3 align="center">BCA Graduate | Aspiring Java Full Stack Developer</h3>
 
 ---
 
 🎓 BCA Graduate | Java Full Stack Developer Intern @ Scope India (2024–2025)  
-🌱 Currently Learning: React (Hooks, Router)  
-💬 Tech Stack: Java (Core, J2EE) | Spring Boot | REST APIs | JSP | JDBC | JPA | React | HTML | CSS | JavaScript | jQuery | Bootstrap | MySQL  
-📫 Email: jcris2995@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristhomasjohn)  
+🌱 Learning: React (Hooks, Router)  
+💬 Tech Stack: Java (Core, J2EE) | Spring Framework | Spring Boot | JSP | JDBC | JPA | REST APIs | React | HTML | CSS | JavaScript | jQuery | Bootstrap | SEO | MySQL  
+📫 Email: jcris2995@gmail.com | [LinkedIn](https://www.linkedin.com/in/cristhomasjohn)
 
 ---
 
@@ -30,13 +29,13 @@
 
 <h3>🚀 Projects</h3>
 
-- **[User Management System](#)**  
-  Full-stack CRUD web app built with React, Spring Boot REST APIs, and MySQL.  
-  ✦ Used Axios for API calls, JPA repository for data management, and Bootstrap for responsive UI.
+- [User Management System](#)  
+  Full-stack CRUD web app built with React (frontend), Spring Boot REST APIs (backend), and MySQL (database).  
+  ✦ Integrated Axios for API communication, JPA Repository for data management, and Bootstrap for responsive UI.
 
-- **[Educational Website – Scope India](https://itsmecris.netlify.app/)**  
-  Responsive website designed with HTML, CSS, and Bootstrap.  
-  ✦ Showcased courses, placements, and contact features with clean, mobile-first UI.
+- [Educational Website for Scope India](https://itsmecris.netlify.app)  
+  Responsive website built using HTML, CSS, and Bootstrap.  
+  ✦ Showcased courses, placements, and contact info with clean, mobile-first UI.
 
 ---
 
@@ -48,3 +47,4 @@
 ---
 
 <p align="center">🚀 Open to entry-level opportunities in Full Stack Development</p>
+
