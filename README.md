@@ -139,7 +139,6 @@ Responsive educational website developed during my Java Full Stack internship.
 * Configured **Internet Gateway and NAT Gateway**
 * Implemented **Bastion Host architecture**
 * Practiced **VPC Peering**
-* Worked with **AWS VPN**
 * Practiced Linux server administration and **SSH**
 
 ---
