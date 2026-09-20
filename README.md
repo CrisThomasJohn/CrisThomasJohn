@@ -118,13 +118,14 @@
 
 ### 🌐 Educational Website for Scope India
 
-**Technologies:** HTML • CSS • Bootstrap • JavaScript
+**Technologies:** HTML • CSS • Bootstrap • JavaScript • Java • SpringBoot • MySQL
 
 Responsive educational website developed during my Java Full Stack internship.
 
 * Showcased courses and placement information
 * Responsive and mobile-friendly interface
 * Clean navigation and user-friendly design
+* Course Registration page and User login page is present
 
 🔗 [View Live Website](https://itsmecris.netlify.app)
 
